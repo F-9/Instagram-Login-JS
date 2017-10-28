@@ -1,6 +1,6 @@
 var http = new XMLHttpRequest();
 var url = "accounts/login/ajax/";
-var params = "password=asd123456&username=9__u";
+var params = "password=pokemon&username=picklerick";
 http.open("POST", url, true);
 
 //Send the proper header information along with the request
